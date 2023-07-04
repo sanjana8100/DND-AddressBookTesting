@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\bin\Debug\net6.0\DND-AddressBookTesting.exe
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\bin\Debug\net6.0\DND-AddressBookTesting.deps.json
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\bin\Debug\net6.0\DND-AddressBookTesting.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\bin\Debug\net6.0\DND-AddressBookTesting.dll
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\bin\Debug\net6.0\DND-AddressBookTesting.pdb
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\obj\Debug\net6.0\DND-AddressBookTesting.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\obj\Debug\net6.0\DND-AddressBookTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\obj\Debug\net6.0\DND-AddressBookTesting.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\obj\Debug\net6.0\DND-AddressBookTesting.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\obj\Debug\net6.0\DND-AddressBookTesting.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\obj\Debug\net6.0\DND-AddressBookTesting.dll
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\obj\Debug\net6.0\refint\DND-AddressBookTesting.dll
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\obj\Debug\net6.0\DND-AddressBookTesting.pdb
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\obj\Debug\net6.0\DND-AddressBookTesting.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DND-AddressBookTesting\DND-AddressBookTesting\obj\Debug\net6.0\ref\DND-AddressBookTesting.dll

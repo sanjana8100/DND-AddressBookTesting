@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DND-AddressBookTesting/1.0.0": {
+        "runtime": {
+          "DND-AddressBookTesting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DND-AddressBookTesting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
